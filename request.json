@@ -1,0 +1,4 @@
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{"name": "Camilo Gutierrez", "mail": "cgutierrez@option.tech","github_url": "https://github.com/camilogutierrez/latam-challenge.git"}' \
+  https://advana-challenge-check-api-cr-k4hdbggvoq-uc.a.run.app/data-engineer
